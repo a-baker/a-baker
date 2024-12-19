@@ -1,6 +1,6 @@
 ## Hi, I'm Aaron 👋
 
-I'm a front end developer working at [CV-Library](https://www.cv-library.co.uk).
+I'm a front end developer working at [VoucherCodes](https://www.vouchercodes.co.uk).
 
 In my free time I'm currently working on [watchreel](https://watchreel.com), a movie discovery website built with Vue.
 
